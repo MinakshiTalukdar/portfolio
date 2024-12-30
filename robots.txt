@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://minakshitalukdar.github.io/sitemap-index.xml
+Sitemap: https://minakshitalukdar.github.io/portfolio/sitemap-index.xml
 Host: https://minakshitalukdar.github.io
