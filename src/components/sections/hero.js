@@ -75,7 +75,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Product Manager with deep expertise in user journeys, AI implementation, and experience
+        Experienced Product Manager with deep expertise in user journeys, AI implementation, and experience
         design. Currently driving accessible, human-centered product development at{' '}
         <a
           href="https://www.cooperators.ca/?redirect=cooperators.com"
